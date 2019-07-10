@@ -14,9 +14,9 @@ Initialization code generator
 學習使用MobaXterm連線，rpi基本設定，
 ![alt tag](https://i.imgur.com/3HhaTu3.png)
 ### app inventor
-學習撰寫搖桿手動程式介面(透過網路傳輸連線rpi
+學習撰寫搖桿手動程式介面(透過網路傳輸連線rpi)
 ### Reference
-* NUCLEO-F446RE板上的STM32F446RE屬於STM32F4系列\
+* NUCLEO-F446RE板上的STM32F446RE屬於STM32F4系列
 STM32CubeF4產品網頁
 * UM1725: Description of STM32F4 HAL and LL drivers
 需要什麼二話不說先往這裡看
