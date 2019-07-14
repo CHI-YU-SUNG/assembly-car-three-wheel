@@ -1,9 +1,16 @@
 # assembly-car-three-wheel
 利用遠端遙控三輪車，簡單練習嵌入式板子
 ## STM32
-* 嵌入式板子:NUCLEO-F446RE Pinout
+### Intrifuction
+STM32CubeTM is STMicroelectronics's original initiative to ease developers' life by reducing
+development efforts, time and cost. STM32CubeTM covers the STM32 portfolio.
+### Evaluation Board: Nucleo-F446RE
+* ST Product Page
+* Mbed ST-Nucleo-F446RE
+* STM32F446RE
+
 ![alt tag](https://i.imgur.com/9fsKBj6.png)
-* 程式撰寫介面:
+* software development environment:
 1. System Workbench for STM32(SW4STM32)\
 Free IDE on Windows, Linux and OS X\
 base on Eclipse
