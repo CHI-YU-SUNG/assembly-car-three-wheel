@@ -13,7 +13,7 @@ Initialization code generator
 
 ## rpi
 學習使用MobaXterm連線，rpi基本設定，
-![alt tag](https://i.imgur.com/3HhaTu3.png)
+![alt tag](https://i.imgur.com/3HhaTu3.png?1)
 * Code: connect.py 
 
 ## app inventor
